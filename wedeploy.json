@@ -1,6 +1,4 @@
 {
     "id": "stackedit",
-    "image": "benweet/stackedit:v5.13.2",
-    "cpu": 1,
-    "memory": 1024
+    "image": "benweet/stackedit:v5.13.2"
 }
