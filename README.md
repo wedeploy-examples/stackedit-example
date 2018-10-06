@@ -2,7 +2,7 @@
 
 # StackEdit
 
-Example of self-hosted [StackEdit](https://hub.docker.com/r/benweet/stackedit/) on [WeDeploy](https://wedeploy.com/).
+Example of self-hosted [StackEdit](https://stackedit.io/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
